@@ -1,5 +1,4 @@
-# Password Generator
-A simple password generator I made for myself to help me futher my understanding of the flutter framework and dart programming language, and as a utility I use often.
+
 
 ## Screenshots
 <div style="text-align: center">
